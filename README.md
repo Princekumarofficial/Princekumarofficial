@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Prince Kumar currently studying at IIT Indore
+I am Prince Kumar currently studying at IIT Indore. I love to contribute to open source projects like [JupyterLab](https://github.com/jupyterlab/jupyterlab), etc. Very much interested in research opppurtunities. I believe that research and innovation go hand-in-hand, and I'm always looking for ways to contribute to the advancement of technology.
 
 
 ## 🌐 Socials:
